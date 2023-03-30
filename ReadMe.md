@@ -1,4 +1,7 @@
-Программа сортировки слиянием нескольких файлов.
+Тестовое задание на стажировку в ШИФТ ЦФТ.
+---
+---
+Программа сортировки слиянием нескольких файлов. Предполагается, что файлы предварительно отсортированы.
 Входные файлы содержат данные одного из двух видов: целые числа или строки. Данные записаны
 в столбик (каждая строка файла – новый элемент). Строки могут содержать любые не пробельные
 символы, строки с пробелами считаются ошибочными.
@@ -22,11 +25,7 @@
 
 
 Информация по технологиям:
-1. Java 11
-2. Maven 3.8.1
-3. Project Lombok
-   https://mvnrepository.com/artifact/org.projectlombok/lombok/1.18.24
-4. Apache Commons CLI
-   https://mvnrepository.com/artifact/commons-cli/commons-cli/1.5.0
-5. Apache Commons IO
-   https://mvnrepository.com/artifact/commons-io/commons-io/2.11.0
+1. Maven 3.8.1
+2. Project Lombok
+3. Apache Commons CLI
+4. Apache Commons IO
